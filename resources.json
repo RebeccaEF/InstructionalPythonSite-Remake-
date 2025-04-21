@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to Python",
+      "description": "Learn the basics of Python syntax, variables, and types.",
+      "link": "https://www.learnpython.org/"
+    },
+    {
+      "id": 2,
+      "title": "Python Functions",
+      "description": "Understand how to create and use functions in Python.",
+      "link": "https://realpython.com/defining-your-own-python-function/"
+    },
+    {
+      "id": 3,
+      "title": "Python Lists and Dictionaries",
+      "description": "Master collections in Python for powerful data handling.",
+      "link": "https://www.w3schools.com/python/python_lists.asp"
+    }
+  ]
+  
